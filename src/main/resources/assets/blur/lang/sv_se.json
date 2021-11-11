@@ -1,0 +1,9 @@
+{
+  "blur.midnightconfig.title": "Blur Config",
+  "blur.midnightconfig.blurExclusions": "Undantag till Blur",
+  "blur.midnightconfig.fadeTimeMillis": "Blurtid (i millisekunder)",
+  "blur.midnightconfig.radius": "Radie",
+  "blur.midnightconfig.gradientStartColor": "Gradientens Startfärg",
+  "blur.midnightconfig.gradientEndColor": "Gradientens Slutfärg",
+  "blur.midnightconfig.showScreenTitle": "Visa skärmtitel"
+}
